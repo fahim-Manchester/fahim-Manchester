@@ -1,5 +1,4 @@
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-2%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 
 About
 👋 Heya, I'm Fahim Rasheed. I'm a student set to graduate in 2026. Despite having a background in business management, I have a strong curiosity toward tech. 
