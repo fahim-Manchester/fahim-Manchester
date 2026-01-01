@@ -1,5 +1,7 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-2%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 
+!!! My about me page is still under construction!!!!
+
 About
 👋 Heya, I'm Fahim Rasheed. I'm a student set to graduate in 2026. Despite having a background in business management, I have a strong curiosity toward tech. 
 - 📍 Location: Manchester
@@ -7,14 +9,14 @@ About
 
 
 ## Featured Projects
-- 🎲 Hackathon project 1 — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ Hackathon project 2 — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 idek for now — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 Hackathon project 1 — [I singlehandly made a budgeting app that follows the 1p challenge, with a focus on gamifiation] ([Language -> Gemini App Builder]) —  (I'll include a link here later on)
+- 🛠️ Hackathon project 2 — [A platform to help international students get accepted into UK universities] ([Language -> Loveable]) — (I'll include a link here later on)
+- 🤖 My next project :)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
+- 🧰 Languages: I'm learning using the student dev pack... so I'll add these once I'm confident enough! :)
+- 🔭 Focus: [Exploring], [hackathons]
+- ❤️ Interests: [Hackathons], [Learning], [People]
 -->
 
 ---
